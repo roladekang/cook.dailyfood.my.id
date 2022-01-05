@@ -1,0 +1,133 @@
+---
+description: "Recipe of Favorite Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp;amp; Creamy Coleslaw"
+title: "Recipe of Favorite Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp;amp; Creamy Coleslaw"
+slug: 377-recipe-of-favorite-wagyu-short-ribs-sandwich-rhubarb-bbq-sauce-and-amp-creamy-coleslaw
+date: 2022-02-05T05:52:10.380Z
+image: https://img-global.cpcdn.com/recipes/0f49c739baf055ad/680x482cq70/wagyu-short-ribs-sandwich-rhubarb-bbq-sauce-creamy-coleslaw-recipe-main-photo.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/0f49c739baf055ad/680x482cq70/wagyu-short-ribs-sandwich-rhubarb-bbq-sauce-creamy-coleslaw-recipe-main-photo.jpg
+cover: https://img-global.cpcdn.com/recipes/0f49c739baf055ad/680x482cq70/wagyu-short-ribs-sandwich-rhubarb-bbq-sauce-creamy-coleslaw-recipe-main-photo.jpg
+author: Pauline Mullins
+ratingvalue: 4.3
+reviewcount: 1427
+recipeingredient:
+- "2 Packages Double 8 Cattle Company Fullblood Wagyu Short Ribs cut into 2 inch pieces"
+- "1 Sweet Yellow Onion large diced"
+- "6 Garlic Cloves smashed"
+- "1 QT Beef Stock"
+- "18 OZ Porter"
+- " Kosher Salt  Freshly Ground Black Pepper to taste"
+- " Grapeseed Oil"
+- " Sandwich Buns"
+- " Rhubarb BBQ Sauce"
+- "2 TBSP Butter"
+- "1 Sweet Yellow Onion medium diced"
+- "3 Garlic Cloves minced"
+- "4 CUP Rhubarb sliced into 12 inch pieces"
+- "3/4 CUP Water"
+- "1/3 CUP White Sugar"
+- "2/3 CUP Brown Sugar"
+- "3 TBSP Molasses"
+- "3/4 CUP Ketchup"
+- "1/4 CUP Apple Cider Vinegar"
+- "1 TBSP Ancho Chile Powder"
+- "2 TBSP Dijon Mustard"
+- "1/2 TSP Salt"
+- "2 TBSP Hot Sauce"
+- " Coleslaw"
+- "2 CUP Green Cabbage sliced into thin shreds"
+- "2 CUP Purple Cabbage sliced into thin shreds"
+- "1 CUP Carrots shredded on the large holes of a box grater"
+- "1 CUP Mayonnaise"
+- "2 TBSP Apple Cider Vinegar"
+- "2 TBSP Course Ground Mustard"
+- "2 TBSP Honey"
+recipeinstructions:
+- "PREPARING THE FULLBLOOD WAGYU SHORT RIBS Preheat the oven to 325°F.Heat a large Dutch oven over medium-high heat. Add enough grapeseed oil to coat the bottom of the pan. Season the Fullblood Wagyu short ribs with kosher salt and freshly ground black pepper.Once the grapeseed oil is shimmering in the pan, add the Fullblood Wagyu short ribs (in two batches), browning on all sides. Remove the beef from the pan."
+- "Add the diced sweet yellow onion, smashed garlic cloves, beef stock, and porter to the pan. Add back the browned Full-blood Wagyu short ribs.Bring all ingredients up to a simmer. Then, cover the pan, and move it to the preheated oven.Cook for 4 hours, stirring occasionally. Remove the braised Fullblood Wagyu short ribs from the braising liquid.Shred the beef with two forks, removing any large pieces of fat."
+- "PREPARING THE RHUBARB BBQ SAUCE Melt the butter in a large saucepan over medium heat. Add the diced sweet yellow onion and minced garlic. Cook for 5 minutes or until the onion is tender, while stirring occa-sionally. Add the sliced rhubarb. Cook for 5 minutes or until the rhubarb is translucent, while stirring occasionally. Add 1/2 cup of water, the brown and white sugars, molasses, ketchup, dijon mustard, apple cider vinegar, hot sauce, and ancho chile powder.Bring to a boil."
+- "Then, reduce the heat and simmer for 15 minutes (or until rhubarb is tender).Place half of the rhubarb mixture in a blender. Remove the center piece of the blender lid (to allow steam to escape), and secure the lid on the blender. Place a clean towel over the opening in the blender lid (to avoid splatters). Blend the rhubarb mixture until smooth. Pour into a large bowl. Repeat procedure with remaining rhubarb mixture. Season to taste with kosher salt and freshly ground black pepper."
+- "PREPARING THE COLESLAW Mix the mayonnaise, apple cider vinegar, course ground mustard, and honey in a small bowl. This is your dressing.Combine the sliced green and purple cabbages and carrots in a large bowl. Toss the cabbages and carrots in the dressing.Season to taste with kosher salt and freshly ground black pepper."
+- "FINAL STEPS Toss the cooked Fullblood Wagyu short ribs with the rhubarb BBQ sauce, and season to taste with kosher salt and freshly ground black pepper.Begin to prepare your sandwich by toasting your buns. Place 4-5 ounces of the shredded Fullblood Wagyu short ribs (that have been tossed in the rhubarb sauce) on top of the bottom bun.Add 3 ounces of coleslaw, and the top bun. Serve, and enjoy!"
+categories:
+- Recipe
+tags:
+- wagyu
+- short
+- ribs
+
+katakunci: wagyu short ribs 
+nutrition: 206 calories
+recipecuisine: American
+preptime: "PT16M"
+cooktime: "PT37M"
+recipeyield: "4"
+recipecategory: Lunch
+
+---
+
+
+![Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp; Creamy Coleslaw](https://img-global.cpcdn.com/recipes/0f49c739baf055ad/680x482cq70/wagyu-short-ribs-sandwich-rhubarb-bbq-sauce-creamy-coleslaw-recipe-main-photo.jpg)
+
+Hello everybody, it's me, Dave, welcome to our recipe site. Today, I will show you a way to make a special dish, wagyu short ribs sandwich, rhubarb bbq sauce &amp; creamy coleslaw. It is one of my favorites. This time, I'm gonna make it a bit tasty. This is gonna smell and look delicious.
+
+Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp; Creamy Coleslaw is one of the most popular of recent trending foods on earth. It's simple, it is quick, it tastes yummy. It's appreciated by millions daily. Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp; Creamy Coleslaw is something which I've loved my whole life. They're fine and they look fantastic.
+
+
+
+
+To begin with this particular recipe, we have to first prepare a few components. You can cook wagyu short ribs sandwich, rhubarb bbq sauce &amp; creamy coleslaw using 31 ingredients and 6 steps. Here is how you can achieve that.
+
+<!--inarticleads1-->
+
+##### The ingredients needed to make Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp; Creamy Coleslaw:
+
+1. Get 2 Packages Double 8 Cattle Company Fullblood Wagyu Short Ribs (cut into 2 inch pieces)
+1. Prepare 1 Sweet Yellow Onion (large diced)
+1. Take 6 Garlic Cloves (smashed)
+1. Prepare 1 QT Beef Stock
+1. Get 18 OZ Porter
+1. Take  Kosher Salt &amp; Freshly Ground Black Pepper (to taste)
+1. Take  Grapeseed Oil
+1. Prepare  Sandwich Buns
+1. Make ready  Rhubarb BBQ Sauce
+1. Prepare 2 TBSP Butter
+1. Take 1 Sweet Yellow Onion (medium diced)
+1. Make ready 3 Garlic Cloves (minced)
+1. Get 4 CUP Rhubarb (sliced into 1/2 inch pieces)
+1. Take 3/4 CUP Water
+1. Prepare 1/3 CUP White Sugar
+1. Take 2/3 CUP Brown Sugar
+1. Take 3 TBSP Molasses
+1. Get 3/4 CUP Ketchup
+1. Make ready 1/4 CUP Apple Cider Vinegar
+1. Take 1 TBSP Ancho Chile Powder
+1. Make ready 2 TBSP Dijon Mustard
+1. Take 1/2 TSP Salt
+1. Prepare 2 TBSP Hot Sauce
+1. Make ready  Coleslaw
+1. Take 2 CUP Green Cabbage (sliced into thin shreds)
+1. Make ready 2 CUP Purple Cabbage (sliced into thin shreds)
+1. Take 1 CUP Carrots (shredded on the large holes of a box grater)
+1. Take 1 CUP Mayonnaise
+1. Make ready 2 TBSP Apple Cider Vinegar
+1. Get 2 TBSP Course Ground Mustard
+1. Prepare 2 TBSP Honey
+
+
+
+
+<!--inarticleads2-->
+
+##### Steps to make Wagyu Short Ribs Sandwich, Rhubarb BBQ Sauce &amp; Creamy Coleslaw:
+
+1. PREPARING THE FULLBLOOD WAGYU SHORT RIBS - Preheat the oven to 325°F.Heat a large Dutch oven over medium-high heat. Add enough grapeseed oil to coat the bottom of the pan. Season the Fullblood Wagyu short ribs with kosher salt and freshly ground black pepper.Once the grapeseed oil is shimmering in the pan, add the Fullblood Wagyu short ribs (in two batches), browning on all sides. Remove the beef from the pan.
+1. Add the diced sweet yellow onion, smashed garlic cloves, beef stock, and porter to the pan. Add back the browned Full-blood Wagyu short ribs.Bring all ingredients up to a simmer. Then, cover the pan, and move it to the preheated oven.Cook for 4 hours, stirring occasionally. Remove the braised Fullblood Wagyu short ribs from the braising liquid.Shred the beef with two forks, removing any large pieces of fat.
+1. PREPARING THE RHUBARB BBQ SAUCE - Melt the butter in a large saucepan over medium heat. Add the diced sweet yellow onion and minced garlic. Cook for 5 minutes or until the onion is tender, while stirring occa-sionally. Add the sliced rhubarb. Cook for 5 minutes or until the rhubarb is translucent, while stirring occasionally. Add 1/2 cup of water, the brown and white sugars, molasses, ketchup, dijon mustard, apple cider vinegar, hot sauce, and ancho chile powder.Bring to a boil.
+1. Then, reduce the heat and simmer for 15 minutes (or until rhubarb is tender).Place half of the rhubarb mixture in a blender. Remove the center piece of the blender lid (to allow steam to escape), and secure the lid on the blender. Place a clean towel over the opening in the blender lid (to avoid splatters). Blend the rhubarb mixture until smooth. Pour into a large bowl. Repeat procedure with remaining rhubarb mixture. Season to taste with kosher salt and freshly ground black pepper.
+1. PREPARING THE COLESLAW - Mix the mayonnaise, apple cider vinegar, course ground mustard, and honey in a small bowl. This is your dressing.Combine the sliced green and purple cabbages and carrots in a large bowl. Toss the cabbages and carrots in the dressing.Season to taste with kosher salt and freshly ground black pepper.
+1. FINAL STEPS - Toss the cooked Fullblood Wagyu short ribs with the rhubarb BBQ sauce, and season to taste with kosher salt and freshly ground black pepper.Begin to prepare your sandwich by toasting your buns. Place 4-5 ounces of the shredded Fullblood Wagyu short ribs (that have been tossed in the rhubarb sauce) on top of the bottom bun.Add 3 ounces of coleslaw, and the top bun. Serve, and enjoy!
+
+
+
+
+So that is going to wrap this up with this exceptional food wagyu short ribs sandwich, rhubarb bbq sauce &amp; creamy coleslaw recipe. Thank you very much for reading. I'm confident you will make this at home. There's gonna be interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, friends and colleague. Thank you for reading. Go on get cooking!

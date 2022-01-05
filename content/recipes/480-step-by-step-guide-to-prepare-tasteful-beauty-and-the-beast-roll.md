@@ -1,0 +1,97 @@
+---
+description: "Step-by-Step Guide to Prepare Tasteful Beauty and the Beast Roll"
+title: "Step-by-Step Guide to Prepare Tasteful Beauty and the Beast Roll"
+slug: 480-step-by-step-guide-to-prepare-tasteful-beauty-and-the-beast-roll
+date: 2022-03-16T18:03:57.519Z
+image: https://img-global.cpcdn.com/recipes/5735240286863360/680x482cq70/beauty-and-the-beast-roll-recipe-main-photo.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/5735240286863360/680x482cq70/beauty-and-the-beast-roll-recipe-main-photo.jpg
+cover: https://img-global.cpcdn.com/recipes/5735240286863360/680x482cq70/beauty-and-the-beast-roll-recipe-main-photo.jpg
+author: Randy Abbott
+ratingvalue: 5
+reviewcount: 39774
+recipeingredient:
+- "1 each Yellow Soy Paper"
+- "1 Sushi Rice"
+- "4 each Boiled Shrimp"
+- "1/3 Avocado"
+- "2 stick Cream Cheese"
+- "2 stick Tamago"
+- "3 stick Imitation Crab"
+- "2 pinch Crunch"
+- "2 slice BBQ Eel"
+- "1 as needed Eel Sauce"
+- "3 pinch Sesame Seeds"
+recipeinstructions:
+- "Lay down Soy Paper sheet Spread Sushi Rice evenly on top"
+- "Cut Avocado, Tamago, and Cream Cheese into slices"
+- "Place: Boiled Shrimp Avocado Cream Cheese Tamago"
+- "Roll tightly into cylinder shape"
+- "Spread open the Imitation Crab"
+- "Left Side of Roll: Place Crab white side up Sprinkle Crunch on top"
+- "Right Side of Roll: Place Eel on top Top with Eel Sauce Sprinkle Sesame Seeds"
+- "Cut roll into 10 pcs."
+categories:
+- Recipe
+tags:
+- beauty
+- and
+- the
+
+katakunci: beauty and the 
+nutrition: 145 calories
+recipecuisine: American
+preptime: "PT38M"
+cooktime: "PT32M"
+recipeyield: "1"
+recipecategory: Dinner
+
+---
+
+
+![Beauty and the Beast Roll](https://img-global.cpcdn.com/recipes/5735240286863360/680x482cq70/beauty-and-the-beast-roll-recipe-main-photo.jpg)
+
+Hey everyone, it's Brad, welcome to our recipe site. Today, I will show you a way to prepare a distinctive dish, beauty and the beast roll. It is one of my favorites. For mine, I will make it a little bit unique. This will be really delicious.
+
+Beauty and the Beast Roll is one of the most well liked of recent trending foods on earth. It's easy, it's fast, it tastes delicious. It's enjoyed by millions daily. They are fine and they look fantastic. Beauty and the Beast Roll is something which I have loved my whole life.
+
+
+
+
+To begin with this recipe, we have to first prepare a few ingredients. You can have beauty and the beast roll using 11 ingredients and 8 steps. Here is how you can achieve it.
+
+<!--inarticleads1-->
+
+##### The ingredients needed to make Beauty and the Beast Roll:
+
+1. Take 1 each Yellow Soy Paper
+1. Prepare 1 Sushi Rice
+1. Take 4 each Boiled Shrimp
+1. Prepare 1/3 Avocado
+1. Make ready 2 stick Cream Cheese
+1. Make ready 2 stick Tamago
+1. Get 3 stick Imitation Crab
+1. Make ready 2 pinch Crunch
+1. Make ready 2 slice B.B.Q. Eel
+1. Prepare 1 as needed Eel Sauce
+1. Prepare 3 pinch Sesame Seeds
+
+
+
+
+<!--inarticleads2-->
+
+##### Instructions to make Beauty and the Beast Roll:
+
+1. Lay down Soy Paper sheet - Spread Sushi Rice evenly on top
+1. Cut Avocado, Tamago, and Cream Cheese into slices
+1. Place: - Boiled Shrimp - Avocado - Cream Cheese - Tamago
+1. Roll tightly into cylinder shape
+1. Spread open the Imitation Crab
+1. Left Side of Roll: - Place Crab white side up - Sprinkle Crunch on top
+1. Right Side of Roll: - Place Eel on top - Top with Eel Sauce - Sprinkle Sesame Seeds
+1. Cut roll into 10 pcs.
+
+
+
+
+So that is going to wrap this up with this special food beauty and the beast roll recipe. Thanks so much for your time. I am sure that you can make this at home. There is gonna be more interesting food in home recipes coming up. Remember to bookmark this page in your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

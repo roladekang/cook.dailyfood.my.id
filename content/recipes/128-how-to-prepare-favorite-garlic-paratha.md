@@ -1,0 +1,96 @@
+---
+description: "How to Prepare Favorite Garlic Paratha"
+title: "How to Prepare Favorite Garlic Paratha"
+slug: 128-how-to-prepare-favorite-garlic-paratha
+date: 2021-10-09T20:50:26.895Z
+image: https://img-global.cpcdn.com/recipes/a9a4773c16251392/680x482cq70/garlic-paratha-recipe-main-photo.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/a9a4773c16251392/680x482cq70/garlic-paratha-recipe-main-photo.jpg
+cover: https://img-global.cpcdn.com/recipes/a9a4773c16251392/680x482cq70/garlic-paratha-recipe-main-photo.jpg
+author: Victoria Brown
+ratingvalue: 4.4
+reviewcount: 41880
+recipeingredient:
+- "1 cup wheat flour"
+- "1/4 cup flour"
+- "2 tbsp butter"
+- "3 garlic cloves chopped"
+- "1 tbsp oil"
+- "1 tbsp coriander leaves"
+- "1/2 tsp chilli flakes"
+- "1/2 tsp oregano"
+- "1/2 tsp salt"
+- "as needed Oil for roasting"
+recipeinstructions:
+- "In a large bowl take wheat flour, flour, salt and oil. Mix well. Add warm water and knead a smooth and soft dough."
+- "Cover and set aside for ten minutes."
+- "Now in a small bowl take garlic, butter, chilli flakes, oregeno and coriander leaves. Mix well to form garlic butter mixture."
+- "Now pinch a large sized ball dough. Roll and flattern it. Dust witj some flour. Roll it into a thick circle like chapati.brush the chapati with garlc mixture."
+- "Now cut the layers with the help of pizza cutter and start creating pleats by folding with the help of fingers."
+- "Take the rolled ball and make a thick chapati."
+- "Now heat a chapati tawa and placed the rolled paratha.after a minute flip it over and cook the other side with some oil."
+- "Flip and roast from both sides."
+- "Finally serve the garlic paratha hot with curd or pickle of your choice"
+categories:
+- Recipe
+tags:
+- garlic
+- paratha
+
+katakunci: garlic paratha 
+nutrition: 180 calories
+recipecuisine: American
+preptime: "PT18M"
+cooktime: "PT58M"
+recipeyield: "2"
+recipecategory: Dessert
+
+---
+
+
+![Garlic Paratha](https://img-global.cpcdn.com/recipes/a9a4773c16251392/680x482cq70/garlic-paratha-recipe-main-photo.jpg)
+
+Hello everybody, it is Drew, welcome to my recipe site. Today, I will show you a way to make a special dish, garlic paratha. One of my favorites. This time, I am going to make it a little bit tasty. This is gonna smell and look delicious.
+
+Garlic Paratha is one of the most favored of current trending foods on earth. It's simple, it is quick, it tastes delicious. It is appreciated by millions daily. They're fine and they look fantastic. Garlic Paratha is something that I have loved my entire life.
+
+
+
+
+To get started with this particular recipe, we have to prepare a few ingredients. You can cook garlic paratha using 10 ingredients and 9 steps. Here is how you can achieve it.
+
+<!--inarticleads1-->
+
+##### The ingredients needed to make Garlic Paratha:
+
+1. Prepare 1 cup wheat flour
+1. Make ready 1/4 cup flour
+1. Get 2 tbsp butter
+1. Prepare 3 garlic cloves chopped
+1. Make ready 1 tbsp oil
+1. Make ready 1 tbsp coriander leaves
+1. Prepare 1/2 tsp chilli flakes
+1. Get 1/2 tsp oregano
+1. Make ready 1/2 tsp salt
+1. Make ready as needed Oil for roasting
+
+
+
+
+<!--inarticleads2-->
+
+##### Steps to make Garlic Paratha:
+
+1. In a large bowl take wheat flour, flour, salt and oil. Mix well. Add warm water and knead a smooth and soft dough.
+1. Cover and set aside for ten minutes.
+1. Now in a small bowl take garlic, butter, chilli flakes, oregeno and coriander leaves. Mix well to form garlic butter mixture.
+1. Now pinch a large sized ball dough. Roll and flattern it. Dust witj some flour. Roll it into a thick circle like chapati.brush the chapati with garlc mixture.
+1. Now cut the layers with the help of pizza cutter and start creating pleats by folding with the help of fingers.
+1. Take the rolled ball and make a thick chapati.
+1. Now heat a chapati tawa and placed the rolled paratha.after a minute flip it over and cook the other side with some oil.
+1. Flip and roast from both sides.
+1. Finally serve the garlic paratha hot with curd or pickle of your choice
+
+
+
+
+So that is going to wrap it up with this exceptional food garlic paratha recipe. Thanks so much for reading. I am confident you can make this at home. There is gonna be more interesting food at home recipes coming up. Don't forget to save this page on your browser, and share it to your loved ones, colleague and friends. Thank you for reading. Go on get cooking!

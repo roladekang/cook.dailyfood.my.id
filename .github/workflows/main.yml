@@ -1,0 +1,33 @@
+name: Build Dengan Cron
+on:
+  schedule:
+    - cron: "35 6 * 1 *"
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    name: Build dan Deploy
+    runs-on: [ ubuntu-latest ]
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.88.0"
+
+      - name: Jalankan Hugo
+        run: hugo
+
+      - name: Sync files
+        uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
+        with:
+          ftp_host: ${{ secrets.FTP_SERVER }}
+          ftp_username: ${{ secrets.FTP_USER }}
+          ftp_password: ${{ secrets.FTP_PASSWORD }}
+          local_source_dir: "cook.dailyfood.my.id"
+          dist_target_dir: "cook.dailyfood.my.id"
+          only_newer: "true"
+          ignore_time: "true"
+          exclude: "'^logs/' '^README.md'"
